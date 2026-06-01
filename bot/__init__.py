@@ -1,0 +1,1 @@
+# Bot package — core application logic

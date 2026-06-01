@@ -1,0 +1,30 @@
+# Core Bot Framework
+python-telegram-bot[job-queue]==21.10
+httpx[http2]==0.28.1
+
+# AI & Translation (Gemini - Free Tier)
+google-generativeai==0.8.4
+
+# RunPod Serverless API Client
+runpod==1.7.1
+
+# Image Processing & Arabic Text Rendering
+Pillow==11.1.0
+arabic-reshaper==3.0.0
+python-bidi==0.6.3
+
+# Async Database
+aiosqlite==0.20.0
+
+# Async HTTP for downloading images
+aiohttp==3.11.11
+aiofiles==24.1.0
+
+# Rate Limiting
+asyncio-throttle==1.0.2
+
+# Environment Variables
+python-dotenv==1.0.1
+
+# Image validation
+filetype==1.2.0

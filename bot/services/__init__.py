@@ -1,0 +1,1 @@
+# External services: Gemini, RunPod, Image overlay, Database

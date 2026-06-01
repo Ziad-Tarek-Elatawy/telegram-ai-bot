@@ -1,0 +1,35 @@
+# Environment
+.env
+
+# Python cache & artifacts
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+dist/
+build/
+
+# SQLite databases
+*.db
+*.sqlite3
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Downloaded fonts (keep in repo as fallback)
+# fonts/*.ttf
+
+# Temp / test images
+temp_images/
+downloads/
+
+# Logs
+*.log
+logs/
